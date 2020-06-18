@@ -3,6 +3,7 @@ footer {
     font-size: 14px;
     padding: 50px 0px;
     border-top: 1px solid rgb(232, 239, 248);
+    color: #627081;
 }
 
 .container {
@@ -21,10 +22,15 @@ footer .foot {
     float: right;
     list-style: none;
 }
- 
-.content .container .right li a {
+
+.right li a {
     text-decoration: none;
-    padding-bottom: 10px;
+
+}
+
+ .right li {
+    
+    padding-bottom: 6px;
 }
 footer .icon {
     margin-top: 10px;
@@ -40,6 +46,9 @@ footer .icon img {
 .info img {
     width: 13%;
   
+}
+.info a {
+    color: #414851;
 }
 footer h3, footer .pagelongnote h3, .pagelongnote footer h3 {
     font-size: 16px;
