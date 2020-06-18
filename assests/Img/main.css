@@ -1,0 +1,58 @@
+footer {
+	background: #fff ; 
+    font-size: 14px;
+    padding: 50px 0px;
+    border-top: 1px solid rgb(232, 239, 248);
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1310px;
+    box-sizing: border-box;
+    width: 90%;
+    padding: 10px 0;
+}
+
+
+footer .foot {
+    padding-left: 40px;
+}
+.right {
+    float: right;
+    list-style: none;
+}
+ 
+.content .container .right li a {
+    text-decoration: none;
+    padding-bottom: 10px;
+}
+footer .icon {
+    margin-top: 10px;
+    margin-right: 10px;
+    display: inline-block;
+}
+footer .icon img {
+    width: 30px;
+}
+.margin-10 {
+    margin-top: 10px;
+}
+.info img {
+    width: 13%;
+  
+}
+footer h3, footer .pagelongnote h3, .pagelongnote footer h3 {
+    font-size: 16px;
+    color: #5a636d;
+}
+footer a {
+    color: #414851;
+}
+footer .copy {
+    margin-top: 10px;
+    font-size: 12px;
+}
+
+footer a:hover {
+    color: #144499;
+}
